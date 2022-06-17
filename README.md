@@ -13,3 +13,7 @@ gem install kimurai
 ```bash
 ruby etsy_scrapper.rb
 ```
+
+After running the scripts the output will be written in `results.json` file in the same folder.
+
+[example-results.json](/example-results.json) contains the result of running the scrapper.
