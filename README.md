@@ -1,4 +1,4 @@
-### Dependencies
+### Dependencies:
 
 ```bash
 brew install --cask google-chrome
@@ -8,7 +8,7 @@ brew install --cask geckodriver
 gem install kimurai
 ```
 
-### Running
+### How to Run:
 
 ```bash
 ruby etsy_scrapper.rb
